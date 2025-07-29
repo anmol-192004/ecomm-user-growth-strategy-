@@ -22,10 +22,10 @@ How can personalized user experiences improve monetization and engagement in und
   - Total Spend
 
 ##  Key Insights
-| Metric            | Group A | Group B |
-|------------------|---------|---------|
-| Engagement Rate  | ~68%    | ~80%    |
-| Average AOV      | ₹120    | ₹132    | 
+| Metric            | Group A   | Group B |
+|------------------|------------|-----------|
+| Engagement Rate  | ~91.25%    | ~91.73%   |
+| Average AOV      | ₹119.67    | ₹151.38   | 
 
  Group B clearly outperforms Group A, showing that personalization strategies can uplift monetization and user activity in emerging markets.
 
